@@ -1,0 +1,18 @@
+0: kindly check
+1: Issue resolved
+2: course dropped
+3: options of batch change, course selection(1)
+4: course updation
+5: undertermined (needs to be sorted manually)
+6:  window closed (batch change late)
+7: add/drop course
+8: contact person in charge
+9: closing query
+10: contact person in charge
+11: Welcome (reponse to thanks)
+12: resolved queries (need to be sorted)
+13: contact person in charge
+14:  mail by Registrar in guidelines for registration
+15: time table / specialisation change queries (need to be sorted further)
+16: queries closed
+17: specialisation queries, no scope for change in specialisation
